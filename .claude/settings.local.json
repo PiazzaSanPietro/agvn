@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(start http://localhost:3000)",
+      "Bash(dir Backend)",
+      "Bash(python:*)",
+      "Read(/E:\\SYSE/**)",
+      "Bash(curl:*)",
+      "Bash(find:*)",
+      "Bash(pyinstaller:*)",
+      "Bash(dir:*)",
+      "Bash(timeout:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
