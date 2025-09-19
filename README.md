@@ -62,7 +62,7 @@ https://drive.proton.me/urls/XSR0HC0WAC#29rQA7vtevax
 3. **Configure environment**
    Create a `.env` file in the Backend directory:
    ```
-   GOOGLE_API_KEY=your_google_api_key_here
+   GOOGLE_API_KEY="your_google_api_key_here"
    ```
 
 4. **Install frontend dependencies**
