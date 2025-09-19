@@ -2,6 +2,19 @@
 
 An interactive story generation application that creates dynamic narratives with character emotions and scene backgrounds using Google's Generative AI.
 
+## Screenshots
+
+| Screenshot 1 | Screenshot 2 |
+| :---: | :---: |
+| <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cf02f5ce-1619-4720-ae8a-0adf220a4790" /> | <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6a8656b2-0945-4cb5-a0b7-e0ffd46a55a7" /> |
+
+https://www.youtube.com/watch?v=QDLLLjAP6ak
+
+### Download Windows Extension
+
+https://drive.proton.me/urls/XSR0HC0WAC#29rQA7vtevax
+
+
 ## Features
 
 - **Interactive Story Generation**: AI-powered story creation with branching narratives
